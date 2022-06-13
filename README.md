@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kapulula
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...programming with python cs50p
+- 💞️ I’m looking to collaborate on ...anything python
 - 📫 How to reach me ...Pemphokapulula31@gmail.com
 
 <!---
